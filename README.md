@@ -5,3 +5,5 @@ It comes with a python file for retreiving more, and uses the RiotWatcher python
 I used my own developer api key so you'll have to get your own (free).
 
 It took about 1.5-2 hours to fetch it all. Have fun.
+
+The license comes with the code, and possibly with the data if Riot is cool with that. 
