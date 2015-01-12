@@ -15,8 +15,9 @@ It was exported to json with mongoexport. The json file is actually one json per
 and to read the file in one by one i.e.
 
 <code>
-with open('lol.json') as jsondata:
-	data.append(json.load(jsondata))
+<p>with open('lol.json') as jsondata:</p>
+<br/>
+<p>	data.append(json.load(jsondata))</p>
 </code>
 It's weird, but it works.
 =======
